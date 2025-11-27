@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ngkol&label=Profile%20views&color=0e75b6&style=flat" alt="m0ngkol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0ngkol" alt="m0ngkol" /></a> </p>
 
 - 🔭 I’m currently working on [Cambodia Traffic Signs Detection](https://github.com/M0nGKol/Cambodia_Road_Sign_Detection)
 
