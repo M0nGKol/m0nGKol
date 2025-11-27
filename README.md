@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mongkol</h1>
 <h3 align="center">I am an AI enthusiast from Cambodia who is interested in learning how artificial intelligence works and how it can solve real-world problems. I enjoy exploring AI technologies such as Machine Learning, Deep Learning, Large Language Models, and Natural Language Processing, and I am eager to improve my skills and work on meaningful projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ngkol&label=Profile%20views&color=0e75b6&style=flat" alt="m0ngkol" /> </p>
-
 
 - 🔭 I’m currently working on [Cambodia Traffic Signs Detection](https://github.com/M0nGKol/Cambodia_Road_Sign_Detection)
 
